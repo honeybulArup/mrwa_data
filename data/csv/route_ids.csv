@@ -1,0 +1,112 @@
+M_Link_ID,Area_Name,Route_No,Route_Name,Peak,Direction,Road_Name,From_Int,To_Int,IRIS_LinkLength,Avg_Posted_Speed,Start_SLK,End_SLK
+999,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Adelaide Tce,Hay St,30,60,0.0,0.03
+1000,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Hay St,Hay St On,70,60,0.03,0.1
+1001,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Hay St On,Great Eastern Hwy EB Off,930,60,0.1,1.03
+1002,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Great Eastern Hwy EB Off,Canning Hwy WB Off,210,60,1.03,1.24
+1003,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Canning Hwy WB Off,Great Eastern Hwy WB,50,60,1.24,1.29
+1004,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Great Eastern Hwy WB,Teddington Rd,440,60,1.29,1.67
+1005,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Teddington Rd,Duncan St,670,60,1.67,2.34
+1006,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Duncan St,Miller St,710,60,2.34,3.05
+1007,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Miller St,Mint St,480,60,3.05,3.53
+1008,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Mint St,Oats St/ Hill View Tce,1110,60,3.53,4.64
+1009,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Oats St/ Hill View Tce,Welshpool Rd/Albany Hwy,320,60,4.64,4.96
+1010,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Welshpool Rd/Albany Hwy,Ashburton St/John St,1050,60,4.96,6.01
+1011,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Ashburton St/John St,Bedford St/Ewing St,300,60,6.01,6.31
+1012,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Bedford St/Ewing St,Leach Hwy EB,450,60,6.31,6.76
+1013,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Leach Hwy EB,Leach Hwy WB,80,60,6.76,6.84
+1014,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Leach Hwy WB,Hamilton St,440,60,6.84,7.28
+1015,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Hamilton St,Manning Rd/Mallard Way,270,60,7.28,7.55
+1016,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Manning Rd/Mallard Way,Carden Dr/Wharf St,590,60,7.55,8.14
+1017,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Carden Dr/Wharf St,Cecil Av,280,60,8.14,8.42
+1018,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Cecil Av,Liege St,690,60,8.42,9.11
+1019,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Liege St,Nicholson Rd,730,60,9.11,9.84
+1020,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Nicholson Rd,Kenwick Link/William St,380,60,9.84,10.22
+1021,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Kenwick Link/William St,Wanaping Rd/Royal St,2230,60,10.22,12.45
+1022,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Wanaping Rd/Royal St,Kenwick Link/Austin Av,1300,60,12.45,13.73
+1023,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Kenwick Link/Austin Av,Burslem Dr,300,60,13.73,14.03
+1024,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Burslem Dr,Olga Rd/Kelvin Rd,690,60,14.03,14.72
+1025,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Olga Rd/Kelvin Rd,Fremantle Rd,2550,66,14.72,17.27
+1026,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Fremantle Rd,Main St,180,60,17.27,17.45
+1027,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Main St,Dorothy St,290,60,17.45,17.74
+1028,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Dorothy St,Tonkin Hwy NB,2120,60,17.74,19.86
+1029,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Tonkin Hwy NB,Tonkin Hwy SB,330,60,19.86,20.19
+1030,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Tonkin Hwy SB,Page Rd,2180,68,20.19,22.37
+1031,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Page Rd,Denny Av,570,60,22.37,22.94
+1032,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Denny Av,Brookton Hwy,1140,60,22.94,24.08
+1033,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Brookton Hwy,Albany Hwy Off,2720,68,24.08,26.8
+1034,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Albany Hwy Off,Armadale Rd/South Western Hwy,50,70,26.8,26.85
+1035,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Armadale Rd/South Western Hwy,Albany Hwy On,80,70,26.85,26.93
+1036,South East,25,Albany Hwy,Outbound,Southbound,Albany Hwy,Albany Hwy On,RA Boundary,24190,99,26.93,51.15
+1037,South East,25,Albany Hwy,Outbound,Southbound,Kenwick Link,Albany Hwy/William St,Roe Hwy EB,1360,70,10.16,11.52
+1038,South East,25,Albany Hwy,Outbound,Southbound,Kenwick Link,Roe Hwy EB,Roe Hwy WB,140,70,11.52,11.66
+1039,South East,25,Albany Hwy,Outbound,Southbound,Kenwick Link,Roe Hwy WB,Royal St,800,70,11.66,12.46
+1040,South East,25,Albany Hwy,Outbound,Southbound,Kenwick Link,Royal St,Albany Hwy/Austin Av,990,70,12.46,13.45
+1041,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,RA Boundary,Armadale Rd/South Western Hwy,24190,99,51.15,26.93
+1042,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Armadale Rd/South Western Hwy,Brookton Hwy,2850,68,26.93,24.08
+1043,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Brookton Hwy,Denny Av,1140,60,24.08,22.94
+1044,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Denny Av,Page Rd,570,60,22.94,22.37
+1045,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Page Rd,Tonkin Hwy SB,2180,68,22.37,20.19
+1046,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Tonkin Hwy SB,Tonkin Hwy NB,330,60,20.19,19.86
+1047,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Tonkin Hwy NB,Dorothy St,2120,60,19.86,17.74
+1048,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Dorothy St,Main St,290,60,17.74,17.45
+1049,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Main St,Fremantle Rd,180,60,17.45,17.27
+1050,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Fremantle Rd,Kelvin Rd/Olga Rd,2550,66,17.27,14.72
+1051,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Kelvin Rd/Olga Rd,Burslem Dr,690,60,14.72,14.03
+1052,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Burslem Dr,Kenwick Link/Austin Av,300,60,14.03,13.73
+1053,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Kenwick Link/Austin Av,Wanaping Rd/Royal St,1300,60,13.73,12.45
+1054,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Wanaping Rd/Royal St,Kenwick Link/William St,2230,60,12.45,10.22
+1055,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Kenwick Link/William St,Nicholson Rd,380,60,10.22,9.84
+1056,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Nicholson Rd,Liege St,730,60,9.84,9.11
+1057,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Liege St,Cecil Av,690,60,9.11,8.42
+1058,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Cecil Av,Carden Dr/Wharf St,280,60,8.42,8.14
+1059,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Carden Dr/Wharf St,Manning Rd/Mallard Way,590,60,8.14,7.55
+1060,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Manning Rd/Mallard Way,Hamilton St,270,60,7.55,7.28
+1061,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Hamilton St,Leach Hwy WB,440,60,7.28,6.84
+1062,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Leach Hwy WB,Leach Hwy EB,80,60,6.84,6.76
+1063,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Leach Hwy EB,Ewing St/Bedford St,450,60,6.76,6.31
+1064,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Ewing St/Bedford St,Ashburton St/John St,300,60,6.31,6.01
+1065,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Ashburton St/John St,Welshpool Rd/Albany Hwy,1050,60,6.01,4.96
+1066,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Welshpool Rd/Albany Hwy,Oats St/Hill View Tce,320,60,4.96,4.64
+1067,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Oats St/Hill View Tce,Mint St,1110,60,4.64,3.53
+1068,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Mint St,Miller St,480,60,3.53,3.05
+1069,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Miller St,Duncan St,710,60,3.05,2.34
+1070,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Duncan St,Teddington Rd,670,60,2.34,1.67
+1071,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Teddington Rd,Great Eastern Hwy WB,460,60,1.67,1.27
+1072,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Great Eastern Hwy WB,Albany Hwy,20,60,1.27,1.25
+1073,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Albany Hwy,Canning Hwy WB Off,40,60,1.25,1.21
+1074,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Canning Hwy WB Off,Canning Hwy Bus,110,60,1.21,1.1
+1075,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Canning Hwy Bus,Canning EB Hwy,20,60,1.1,1.08
+1076,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Canning EB Hwy,Riverside Dr Off,1050,60,1.08,0.03
+1077,South East,25,Albany Hwy,Inbound,Northbound,Albany Hwy,Riverside Dr Off,Adelaide Tce,30,60,0.03,0.0
+1078,South East,25,Albany Hwy,Inbound,Northbound,Kenwick Link,Albany Hwy/Austin Av,Royal St,990,70,13.45,12.46
+1079,South East,25,Albany Hwy,Inbound,Northbound,Kenwick Link,Royal St,Roe Hwy WB,800,70,12.46,11.66
+1080,South East,25,Albany Hwy,Inbound,Northbound,Kenwick Link,Roe Hwy WB,Roe Hwy EB,140,70,11.66,11.52
+1081,South East,25,Albany Hwy,Inbound,Northbound,Kenwick Link,Roe Hwy EB,Albany Hwy/William St,1360,70,11.52,10.16
+1082,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Graham Farmer Fwy,Francisco St,290,70,0.0,0.29
+1083,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Francisco St,Archer St,1100,70,0.29,1.39
+1084,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Archer St,Wright St,410,70,1.39,1.8
+1085,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Wright St,Oats St,660,70,1.8,2.46
+1086,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Oats St,Leach Hwy NB-EB,1050,70,2.46,3.51
+1087,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Leach Hwy NB-EB,Leach Hwy SB-WB,90,70,3.51,3.6
+1088,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Leach Hwy SB-WB,Ballantyne Rd/Division St,210,70,3.6,3.81
+1089,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Ballantyne Rd/Division St,Pilbara St,670,70,3.81,4.48
+1090,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Pilbara St,Kewdale Rd,340,70,4.48,4.82
+1091,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Kewdale Rd,McDowell St,1910,70,4.82,6.73
+1092,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,McDowell St,Roe Hwy NB-EB,1120,70,6.73,7.85
+1093,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Roe Hwy NB-EB,Roe Hwy SB-WB,150,70,7.85,8.0
+1094,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Roe Hwy SB-WB,Hale Rd,520,70,8.0,8.52
+1095,South East,26,Orrong Rd,Outbound,Eastbound,Rivervale-Wattle Grove Link,Hale Rd,Tonkin Hwy,1640,70,8.52,10.16
+1096,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Tonkin Hwy,Hale Rd,1640,70,10.16,8.52
+1097,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Hale Rd,Roe Hwy SB-WB,520,70,8.52,8.0
+1098,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Roe Hwy SB-WB,Roe Hwy NB-EB,150,70,8.0,7.85
+1099,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Roe Hwy NB-EB,McDowell St,1120,70,7.85,6.73
+1100,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,McDowell St,Kewdale Rd,1910,70,6.73,4.82
+1101,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Kewdale Rd,Pilbara St,340,70,4.82,4.48
+1102,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Ballantyne Rd/Division St,Leach Hwy SB-WB,210,70,3.81,3.6
+1103,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Pilbara St,Ballantyne Rd/Division St,670,70,4.48,3.81
+1104,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Leach Hwy SB-WB,Leach Hwy NB-EB,90,70,3.6,3.51
+1105,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Leach Hwy NB-EB,Oats St,1050,70,3.51,2.46
+1106,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Oats St,Wright St,660,70,2.46,1.8
+1107,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Wright St,Archer St,410,70,1.8,1.39
+1108,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Archer St,Francisco St,1100,70,1.39,0.29
+1109,South East,26,Orrong Rd,Inbound,Westbound,Rivervale-Wattle Grove Link,Francisco St,Graham Farmer Fwy,290,70,0.29,0.0
